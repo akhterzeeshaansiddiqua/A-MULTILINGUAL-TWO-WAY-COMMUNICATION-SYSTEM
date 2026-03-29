@@ -3,16 +3,15 @@ A-MULTILINGUAL-TWO-WAY-COMMUNICATION-SYSTEM
 A-Multilingual-Two-Way-Communication-System is a real-time sign language communication platform designed to bridge the gap between hearing-impaired individuals and non-sign language users. The system supports two-way communication by converting sign language gestures into text and speech, and converting text into sign language using videos.
 
 This system enables multilingual communication in environments such as offices, schools, hospitals, and public service centers, improving accessibility and inclusiveness.
-
 🚀 Features
-Real-time sign language recognition
-Sign-to-text conversion
-Text-to-sign conversion
-Speech output generation
-Multilingual translation (English, Hindi, Telugu)
-MediaPipe hand detection
-Machine learning gesture recognition
-User-friendly interface
+-Real-time sign language recognition
+-Sign-to-text conversion
+-Text-to-sign conversion
+-Speech output generation
+-Multilingual translation (English, Hindi, Telugu)
+-MediaPipe hand detection
+-Machine learning gesture recognition
+-User-friendly interface
 Webcam-based detection
 Real-time communication
 🛠️ Technologies Used
